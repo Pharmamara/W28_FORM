@@ -16,6 +16,7 @@ const TextFormatter = () => {
   };
 
   return (
+    //отрисовка
     <div>
       <input
         type="text"
