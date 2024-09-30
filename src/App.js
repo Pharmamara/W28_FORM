@@ -3,6 +3,7 @@ import UppercaseInput from "./UppercaseInput";
 import TextInput from "./TextInput";
 
 function App() {
+  //два способа
   return (
     <>
       <UppercaseInput />
